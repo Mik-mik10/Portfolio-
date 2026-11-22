@@ -1,4 +1,4 @@
-# Hi, I'm Myka Bazar!
+# Hi, I'm Myka Bazar 👋
 
 
 # About Me
@@ -20,6 +20,6 @@ Hi, I'm Myka Bazar, a third-year Information Technology student with a passion f
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 # Contact Me 
-Email: mykabazar@email.com
-GitHub: https://github.com/Mik-mik10
+📧 Email: mykabazar@email.com
+💻 GitHub: https://github.com/Mik-mik10
 
