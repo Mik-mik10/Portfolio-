@@ -8,16 +8,10 @@ Hi, I'm Myka Bazar, a third-year Information Technology student with a passion f
 # Tech Stack & Tools
 
 # Languages
-JavaScript
-Python
-HTML
-CSS
-SQL
+JavaScriptPythonHTML5CSS3SQL
 
 # Frameworks & Tools
-GitHub
-Node.js
-VS Code
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 
 # Contact Me 
 Email: mykabazae@email.com
